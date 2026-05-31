@@ -188,7 +188,7 @@ This dashboard page focuses on loan growth, financial risk, and trend analysis.
 - YOY Default Loans Change by Year
 - YTD Loan Amount by Credit Score Bins and Marital Status
 - Decomposition Tree for Loan Amount Analysis using Income Bracket and Employment Type
-<img width="1317" height="735" alt="Image" src="https://github.com/user-attachments/assets/8c8577fd-a860-4670-9e45-b021c498cfe9" />
+<img width="1323" height="732" alt="Image" src="https://github.com/user-attachments/assets/96f0bdaa-771f-4e54-9577-3645fd7f13c9" />
 
 ## Key Insights / Findings
 
