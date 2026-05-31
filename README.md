@@ -209,7 +209,7 @@ This dashboard page focuses on loan growth, financial risk, and trend analysis.
 - Loan Dataset File
 - Dashboard Screenshots
 - README.md Documentation
--
+
 ## Conclusion
 
 This project demonstrates the use of SQL Server and Power BI Desktop to analyze loan performance, borrower demographics, and default trends. DAX measures and interactive visualizations were used to study loan distribution, financial risk, and yearly trends, helping transform raw loan data into meaningful analytical insights through an interactive dashboard.
