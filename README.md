@@ -18,7 +18,7 @@ Financial institutions manage large volumes of loan data, making it challenging 
 * Explore financial risk patterns using credit score categories and decomposition analysis.
 * Develop an interactive dashboard for loan performance and default analysis.
 
-* ## Dataset Information
+## Dataset Information
 
 The project uses a loan dataset containing borrower demographic details, financial information, loan amount, repayment status, credit score, employment type, education type, marital status, mortgage details, and loan purpose. The dataset was imported into SQL Server and connected to Power BI Desktop for analysis and dashboard development.
 
@@ -32,7 +32,7 @@ The project uses a loan dataset containing borrower demographic details, financi
 * Data Validation
 * Data Visualization
 
-* ## Project Workflow / Steps Follow
+## Project Workflow / Steps Follow
 
 1. Imported the loan dataset into SQL Server.
 2. Connected SQL Server with Power BI Desktop.
@@ -42,7 +42,7 @@ The project uses a loan dataset containing borrower demographic details, financi
 6. Built interactive dashboard pages using charts and analytical visuals.
 7. Performed loan performance and default analysis using Power BI visualizations.
 
-8. ## Data Preparation & Transformation
+## Data Preparation & Transformation
 
 - Imported and stored the loan dataset in SQL Server.
 - Connected SQL Server with Power BI Desktop.
@@ -51,7 +51,7 @@ The project uses a loan dataset containing borrower demographic details, financi
 - Created calculated columns and DAX measures for analytical reporting.
 - Organized and transformed loan data for dashboard visualization and analysis.
 
-- ## DAX Measures Used
+## DAX Measures Used
 
 The dashboard uses multiple DAX measures to calculate loan trends, default rates, average income, median loan amount, and year-over-year financial performance.
 
@@ -115,7 +115,7 @@ The dashboard uses multiple DAX measures to calculate loan trends, default rates
 - Used `CALCULATE`, `SUM`, `DATESYTD`, and `ALLEXCEPT`
 - Purpose: Calculate year-to-date loan amount by Credit Score Bins and Marital Status.
 
-- ## Calculated Columns & Data Preparation
+## Calculated Columns & Data Preparation
 
 Data preparation and calculated columns were created to improve analysis and segmentation.
 
@@ -153,7 +153,7 @@ Data preparation and calculated columns were created to improve analysis and seg
   - YOY analysis
   - Year-wise default trends
  
-- ## Dashboard Pages & Visualizations Used
+## Dashboard Pages & Visualizations Used
  
   ### 1. Loan Default & Overview
 
@@ -203,7 +203,7 @@ This dashboard page focuses on loan growth, financial risk, and trend analysis.
 - YTD Loan Amount analysis highlights loan distribution across Credit Score Bins and Marital Status.
 - Decomposition Tree analysis provides loan amount breakdown using Income Bracket and Employment Type.
 
-- ## Files Included in Repository
+## Files Included in Repository
 
 - Power BI Dashboard File (.pbix)
 - Loan Dataset File
