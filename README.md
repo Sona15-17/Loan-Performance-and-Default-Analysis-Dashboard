@@ -153,6 +153,8 @@ Data preparation and calculated columns were created to improve analysis and seg
   - YOY analysis
   - Year-wise default trends
  
+- ## Dashboard Pages & Visualizations Used
+ 
   ### 1. Loan Default & Overview
 
 This dashboard page focuses on overall loan performance and default trends.
