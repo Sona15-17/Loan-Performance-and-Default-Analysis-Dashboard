@@ -1,4 +1,4 @@
-# Loan-Performance-and-Default-Analysis-Dashboard
+# Loan Performance and Default Analysis Dashboard  SQL Server, Power BI & DAX
 
 ## Project Overview
 
